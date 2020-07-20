@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body >
+<!-- <div id="navbar"> 
+        <a href="#">Home</a> 
+
+        <div class="search"> 
+            <form action="#"> 
+                <input type="text"
+                    placeholder=" Search Courses"
+                    name="search"> 
+                <button> 
+                    <i class="fa fa-search"
+                        style="font-size: 18px;"> 
+                    </i> 
+                </button> 
+            </form> 
+        </div> 
+    </div>  -->
+<img src="sear.jpg" class="image" height="100px" width="2000px">
+
+<div class="card">
+	<div class="container1">
+		<br>
+		<p style="color: black"><b><img src="img1.jpg" height="50" width="50" align="left" hspace="10">LinkedIn </p></b><p>34,532 followers</p>
+		<p>Promoted</p>
+	</div>
+	<hr>
+	due to covid 19 we are here to offer you free internships
+	<br><br>
+	<img src="inter.jpg" class="image" height="300px">
+	<div class="comment">
+		<p style="float: left; width: 49%; text-align: left;padding-left: 2px"><img src="like.svg" height="10px" width="10px">10,034</p>
+		<p style="float: left; width: 49%; text-align: right;padding-right:2px">621 comments</p>
+	</div>
+	<div class="actions1">
+		<img src="like.svg" height="10px" width="10px" style="float: left; width: 25%; text-align: center;">
+
+		<img src="comment.svg" height="10px" width="10px" style="float: left; width: 25%; text-align: center;">
+
+		<img src="share.svg" height="10px" width="10px" style="float: left; width: 25%; text-align: center;">
+
+		<img src="send.svg" height="10px" width="10px" style="float: left; width: 25%; text-align: center;">
+
+	</div>
+	<div class="actions2">
+		<p style="float: left; width: 25%; text-align: center;">Like</p>
+		<p style="float: left; width: 25%; text-align: center;">Comment</p>
+		<p style="float: left; width: 25%; text-align: center;">Share</p>
+		<p style="float: left; width: 25%; text-align: center;">Send</p>
+	</div>
+</div>
+<br><br>
+<div class="card">
+	<div class="container1">
+		<br>
+		<p style="color: black"><b><img src="img1.jpg" height="50" width="50" align="left" hspace="10">LinkedIn </p></b><p>3,45,789 followers</p>
+		<p>Promoted</p>
+	</div>
+	<hr>
+	covid 19 some safety tips	<br><br>
+	<img src="saf.jpg" class="image" height="200px">
+	<div class="comment">
+
+		<p style="float: left; width: 49%; text-align: left;padding-left: 2px"><img src="like.svg" height="10px" width="10px">13,051</p>
+		<p style="float: left; width: 49%; text-align: right;padding-right:2px">954 comments</p>
+	</div>
+	<div class="actions1">
+		<img src="like.svg" height="10px" width="10px" style="float: left; width: 25%; text-align: center;">
+
+		<img src="comment.svg" height="10px" width="10px" style="float: left; width: 25%; text-align: center;">
+
+		<img src="share.svg" height="10px" width="10px" style="float: left; width: 25%; text-align: center;">
+
+		<img src="send.svg" height="10px" width="10px" style="float: left; width: 25%; text-align: center;">
+
+	</div>
+	<div class="actions2">
+		<p style="float: left; width: 25%; text-align: center;">Like</p>
+		<p style="float: left; width: 25%; text-align: center;">Comment</p>
+		<p style="float: left; width: 25%; text-align: center;">Share</p>
+		<p style="float: left; width: 25%; text-align: center;">Send</p>
+	</div>
+</div>
+<br><br>
+</body>
+</html>
