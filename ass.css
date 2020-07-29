@@ -1,0 +1,126 @@
+.red{
+			background-color:#ce0505;
+			border-style: solid;
+            border-color:white;
+            background-size:cover;
+            width:100%;
+            height: 100%;
+            padding: 15px
+
+		}
+		
+		#logo{
+	         color:red;
+             font-weight: bold;
+             font-size:40px;
+             background-color:white;
+             height:40px;
+             width:40px;
+             padding: 5px;
+             text-align: center;
+             text-decoration: none;    
+             border-radius: 50%;
+             margin-bottom: 50px;
+             margin-top: 50px;
+             margin-left: 30px;
+             border-spacing: 4px 1rem
+	         } 
+
+
+        #create{
+        	float: right;
+        	margin-right: 40px;
+        	margin-top: 14px;
+        	color: white;
+        	font-family: 'Open Sans', serif;
+
+        }
+
+        #login{
+        	float: right;
+        	margin-right: 100px;
+        	margin-top: 10px;
+        	border:1px solid white;      
+        	padding:5px;
+        	color: white;
+        	font-family: 'Open Sans', serif;
+        	
+        	
+        	}
+
+        .part{
+        	background: url(img.png);
+        	margin-left:90px;
+            margin-right:90px;
+            background-size: cover;
+            margin-top: 30px;
+            height: 370px;
+        }
+        #click{
+        	border-radius: 1px solid black;
+        	padding: 10px;
+        	margin-top: 300px;
+        	float:right;
+        	margin-right:20px;  
+        	font-weight:bolder; 
+        	color:#192f60;
+        	opacity: 0.9; 
+        	background-color:#ebe1e1;
+        	font-family:poppins semi-bold; 
+        	box-shadow: 0 3px 6px black ;
+        	margin-bottom:100px;      	
+        }
+        .part2,.part3{
+        	margin-left:90px;
+            margin-right:90px;
+        }
+
+        .name{
+        	font-family:'Open Sans', serif;
+        	color:#192f60;
+        	margin-top: 20px;
+        	font-weight: bolder;
+
+        }
+        #overview{
+        	text-align: left;
+        	margin-bottom: 15px;
+        	color:#192f60;
+        	font-weight: bolder;
+        	margin-top:50px;
+        }	
+        #contact{
+        	text-align: left;
+        	margin-bottom: 15px;
+        	margin-left: 55px;
+        	color:#192f60;
+        	font-weight: bolder;
+        	margin-top:50px
+        } 
+        #hy{
+        	margin-top: 40px;
+        	margin-bottom: 20px;
+
+        } 
+        #phn{
+        	margin-top:20px;
+        	color: #192f60;
+        	margin-bottom:10px;
+        } 
+        #num{
+        	color: #f67082;
+        	margin-top:10px;
+        	margin-bottom:20px;
+
+
+        } 
+        #heading{
+        	color: #192f60;
+        	margin-bottom:10px;
+        	font-weight: bolder;
+        }
+        #sub{
+        	color: #636f88
+
+
+        } 
