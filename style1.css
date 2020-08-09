@@ -1,0 +1,58 @@
+.nav navbar-nav navbar-right{
+  text-align: right
+}
+
+ 
+
+ h1{
+  		text-align: center;
+  		font-family: bold;
+  		margin-top:50px; 
+      margin-bottom: 100px;
+  	}
+  
+  
+ div{
+ 	
+  height: 200px; 	
+ 	border: 1px solid black;
+ 	float:left;
+ 	margin-right: 20px;
+ 	margin-left: 20px;
+  width: 200px;
+  margin-bottom: 30px; 
+ 	background-color: grey; 	
+ }
+  #chi{  	
+  	background-color: grey;
+  
+  }
+  
+  #bee{
+  	background-color: grey;
+  	
+  }
+  #sus{
+  	background-color: grey;
+  	
+  }
+@media (min-width: 992px){
+
+    #sus{
+      width: 100%;}
+.navbar-inverse{
+      background-color:red;
+      border-style: solid;
+      border-color:white;
+      background-size:cover;
+      width:99%;
+      height: 100%;
+      padding: 15px;
+     
+
+    }      
+  
+
+  
+ 
+  
